@@ -1,6 +1,6 @@
 // 1. Nombre y apellido
-let miNombre = "TuNombre"; // Cambia esto por tu nombre
-let miApellido = "TuApellido"; // Cambia esto por tu apellido
+let miNombre = "Christian";
+let miApellido = "Lorca";
 console.log(miNombre + " " + miApellido);
 
 // 2. Operación matemática
