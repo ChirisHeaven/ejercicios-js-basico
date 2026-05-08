@@ -34,10 +34,10 @@ let bNumero = 3;
 console.log("Suma string + number:", aCombinado + bNumero);
 console.log("Resta string + number:", aCombinado - bNumero);
 
-// 5. Variable edad = 27
-let edad = 27;
-console.log("¿Es mayor a 15?:", edad > 15);
-console.log("¿Es menor a 30?:", edad < 30);
+// 5. Variable edad = 15
+let edad = 15;
+console.log("¿Es mayor a 10?:", edad > 10);
+console.log("¿Es menor a 18?:", edad < 18);
 
 // 6. Variable numero = 8
 let numero = 8;
@@ -69,4 +69,3 @@ console.log("¿Puede conducir?:", edadConductor >= 18 || tienePermiso);
 let usuario = "admin";
 let password = "1234";
 console.log("¿Login correcto?:", usuario === "admin" && password === "1234");
-
