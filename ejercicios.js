@@ -9,7 +9,7 @@ let resultado = (unNumero + 5) * 3;
 console.log("El resultado matemático es:", resultado);
 
 // 3. Comida favorita
-let comidaFavorita = "Sushi"; // Pon tu comida favorita
+let comidaFavorita = "Sushi";
 console.log("Mi comida favorita es:", comidaFavorita);
 
 // 4. Operaciones básicas con a = 10 y b = 3
